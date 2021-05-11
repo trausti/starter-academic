@@ -70,8 +70,18 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Trausti Kristjansson Ph.D. is a Research Science Manager at Lab126, home of the Alexa enabled devices. He is a leading expert on Machine Learning applied to audio and video.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Trausti has worked at Amazon, Google, IBM Research and Microsoft Research.
+
+Trausti worked in the Speech Recognition group at Google for 6 years where he lead research and development on audio quality and noise robustness. Trausti contributed substantially to the real-time ASR products that Google provides and are used by millions of people every day.
+
+At IBM Research, Trausti started and led the team that built the “IBM Super Human Speech Separation ASR system” that was  featured in Scientific American Magazine.
+
+Prior to IBM, Trausti worked at Microsoft Research. There he worked on 3D scene learning algorithms, interactive methods of turning unstructured data into structured data as well as noise robustness and speech separation.
+
+Trausti has a broad background in Machine Learning and Signal Processing applied to Speech and Vision. Trausti holds an adjunct professorship at the University of Reykjavik, Iceland. Trausti received his Ph.D. in Computer Science from the University of Waterloo in Canada and a M.Sc. in Electrical Engineering from the University of Illinois, Urbana Champaign in the USA and a Cand. Sci. (B.Sc.) from the University of Iceland.
+
+Trausti has published over 25 scientific papers and authored over 25 patents.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
