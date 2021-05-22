@@ -25,7 +25,7 @@ experience:
   - title: Research Science Manager
     company: Amazon Lab126
     company_url: ''
-    company_logo: org-a
+    company_logo: lab126
     location: California
     date_start: '2021-01-01'
     date_end: ''
